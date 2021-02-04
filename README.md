@@ -8,4 +8,4 @@ npm install
 canvas-sketch earth.js
 ```
 
-![alt text](http://url/to/img.png)
+![alt text](https://wallpapercave.com/wp/9OYMGcV.jpg)
