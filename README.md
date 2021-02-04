@@ -9,3 +9,5 @@ canvas-sketch earth.js
 ```
 
 ![alt text](https://wallpapercave.com/wp/9OYMGcV.jpg)
+
+![alt text](https://github.com/Agrim9841/Earth/blob/main/output.png)
