@@ -1,0 +1,22 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "agrim tuladhar",
+  "license": "ISC",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "eases": "^1.0.8",
+    "glsl-noise": "0.0.0",
+    "nice-color-palettes": "^3.0.0",
+    "regl": "^2.0.1",
+    "three": "^0.123.0"
+  },
+  "description": ""
+}
