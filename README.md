@@ -1,6 +1,6 @@
 # Earth
 
-info
+A 3D model of earth created with WebGL and Three JS. The image is rendered in the client side so that the client does not have to down large MB of data to load image.
 
 ## Output
 
